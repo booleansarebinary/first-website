@@ -1,5 +1,10 @@
 ---
-title: "Annika"
+title: "About"
 ---
 
-About this site
+## About Me
+
+My name is **Annika Shivam**, and I'm currently attending *Shivam Academy*.
+
+["Kane's Free Data Science Bootcamp"](https://bootcamp.davidkane.info)
+
